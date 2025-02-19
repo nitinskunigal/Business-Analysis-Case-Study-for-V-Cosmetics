@@ -36,7 +36,7 @@ This repository is for anyone interested in business analysis, system design, or
 ✅ **Developers & UX Designers** needing clarity on system interactions before implementation.
 
 # **Explore the Repository**
-• [Business Analysis Case Study (Sales Tracking) Document (PDF)](https://github.com/nitinskunigal/Business-Analysis-Case-Study-on-Sales-Tracking/blob/main/BA%20Case%20Study%20(Sales%20Tracking%20-%20LMS)%20Document.pdf)
+• [Business Analysis Case Study (Sales) Document - V-Cosmetics (PDF)](https://github.com/nitinskunigal/Business-Analysis-Case-Study-for-V-Cosmetics/blob/main/BA%20Case%20Study%20(Sales)%20Document%20-%20V-Cosmetics.pdf)
 
 • [Use Case Diagram (PDF)](https://github.com/nitinskunigal/Business-Analysis-Case-Study-on-Sales-Tracking/blob/main/Use%20Case%20Diagram%20-%20LMS.pdf)
 
