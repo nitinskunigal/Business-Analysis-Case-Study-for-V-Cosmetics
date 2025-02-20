@@ -1,33 +1,49 @@
 # **Overview**
-This repository contains a business analysis case study focused on optimizing sales tracking and lead management for V-Cosmetics, a growing beauty care brand. The study explores pain points, business requirements, process workflows, and use case specifications to propose an efficient, system-driven solution.
+This repository contains a Business Analysis Case Study focused on optimizing sales tracking and lead management for V-Cosmetics, a growing beauty care brand. The study explores pain points, business requirements, process workflows, and system design to propose an efficient, structured solution for improving sales operations.
 
 # **Problem Statement**
-V-Cosmetics' sales managers struggle to assign and track store visits efficiently, while sales representatives lack a centralized system to manage leads and update activities. This led to inefficiencies, lack of visibility, and missed opportunities. To address these challenges, a structured solution has been designed, ensuring seamless tracking, automation, and visibility into the sales pipeline.
+V-Cosmetics' sales managers struggle to efficiently assign, monitor, and track store visits, while sales representatives lack a centralized system to log activities and manage leads. These challenges result in:
+
+🚩 Inefficiencies in sales tracking & reporting
+
+🚩 Limited visibility into store visits & follow-ups
+
+🚩 Missed opportunities due to lack of real-time updates
+
+To address these gaps, a structured Lead Management System (LMS) has been designed to enhance tracking, improve automation, and provide actionable insights into the sales pipeline.
 
 # **Proposed Solution**
-A streamlined Lead Management System (LMS) designed to help:
+A streamlined Lead Management System (LMS) designed to:
 
-✅ Sales managers efficiently assign and monitor visits.
+✅ Enable sales managers to efficiently assign and monitor store visits.
 
-✅ Sales reps track and update their activities with ease.
+✅ Empower sales reps with a centralized system to log activities & track progress.
 
-✅ The organization gain better insights into sales performance through structured data tracking.
+✅ Provide the organization with structured sales data for better decision-making.
 
-This repository provides a detailed breakdown of the solution, including business requirements, user stories, and system workflows.
+This repository provides a detailed breakdown of the solution, including business requirements, user stories, and system workflows to illustrate the end-to-end process.
 
 # **Key Artifacts**
-**Business Analysis Case Study Document** – Capturing business requirements, user stories, and solution design.
+This repository contains essential BA artifacts used in the case study:
 
-**Use Case Diagram** – Visual representation of system interactions and system behaviour.
+✅ **Business Analysis Case Study Document** – Captures business requirements, user stories, and solution design.
 
-**Wireframes** - Low-Fidelity Wireframes to design the solution for the business requirements involving User Interface (UI).
+✅ **Use Case Diagram** – Visual representation of system interactions and system behaviour.
 
-**Process Flow Diagram** – End-to-end process flow illustrating sales tracking activities.
+✅ **Wireframes** - Low-fidelity UI wireframes for designing the proposed solution.
+
+✅ **Process Flow Diagram** – End-to-end visualization of sales tracking activities.
 
 # **How to Use This Repository**
-This repository is for anyone interested in business analysis, system design, or process modeling. It provides structured documentation and visual artifacts that can be used for learning, reference, or as a foundation for similar projects.
+This repository is for anyone interested in Business Analysis, System Design, or Process Modeling. It provides structured documentation and visual artifacts that can be used for:
 
-💡 Who can benefit?
+💡 Learning & Reference – Understand how to define business requirements and model workflows.
+
+💡 Problem-Solving – Explore a structured approach to analyzing and optimizing processes.
+
+💡 Pre-Implementation Clarity – Helps developers & UX designers gain insights into system interactions.
+
+# **Who can benefit?**
 
 ✅ **Aspiring Business Analysts** looking to understand how to define requirements and model workflows.
 
