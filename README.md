@@ -60,3 +60,4 @@ This repository is for anyone interested in Business Analysis, System Design, or
 
 • [Process Flow Diagram (PDF)](https://github.com/nitinskunigal/Business-Analysis-Case-Study-for-V-Cosmetics/blob/main/Process%20Flow%20Diagram_LMS.pdf)
 
+• [Video Presentation - BA Case Study Walkthrough](https://vimeo.com/1061202131/931dfeb1e3)
