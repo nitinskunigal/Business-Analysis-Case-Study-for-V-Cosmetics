@@ -54,9 +54,9 @@ This repository is for anyone interested in Business Analysis, System Design, or
 # **Explore the Repository**
 • [Business Analysis Case Study (Sales) Document - V-Cosmetics (PDF)](https://github.com/nitinskunigal/Business-Analysis-Case-Study-for-V-Cosmetics/blob/main/BA%20Case%20Study%20(Sales)%20Document%20-%20V-Cosmetics.pdf)
 
-• [Use Case Diagram (PDF)](https://github.com/nitinskunigal/Business-Analysis-Case-Study-on-Sales-Tracking/blob/main/Use%20Case%20Diagram%20-%20LMS.pdf)
+• [Use Case Diagram (PDF)](https://github.com/nitinskunigal/Business-Analysis-Case-Study-for-V-Cosmetics/blob/main/Use%20Case%20Diagram_LMS.pdf)
 
 • [Wireframes (PDF)](https://github.com/nitinskunigal/Business-Analysis-Case-Study-on-Sales-Tracking/blob/main/Wireframes%20-%20LMS.pdf)
 
-• [Process Flow Diagram (PDF)](https://github.com/nitinskunigal/Business-Analysis-Case-Study-on-Sales-Tracking/blob/main/Process%20Flow%20Diagram%20-%20LMS.pdf)
+• [Process Flow Diagram (PDF)](https://github.com/nitinskunigal/Business-Analysis-Case-Study-for-V-Cosmetics/blob/main/Process%20Flow%20Diagram_LMS.pdf)
 
